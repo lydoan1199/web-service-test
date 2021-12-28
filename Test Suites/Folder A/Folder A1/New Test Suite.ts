@@ -14,7 +14,6 @@
    <testCaseLink>
       <guid>72a47458-af10-4d35-a5c2-fb058433b47d</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
       <testCaseId>Test Cases/Find user by ID</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
