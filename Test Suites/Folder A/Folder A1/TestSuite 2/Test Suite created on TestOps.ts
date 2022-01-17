@@ -23,10 +23,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Find user by ID</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>ec6da40f-bfbb-45e0-b362-11a6942ebfd7</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Nothing</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
