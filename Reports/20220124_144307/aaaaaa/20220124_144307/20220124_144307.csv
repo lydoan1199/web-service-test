@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+aaaaaa,,,,2022-01-24 14:43:25,2022-01-24 14:43:25,0.703s,FAILED
+,,,,,,,
+Test Cases/Test Case 3,,,,2022-01-24 14:43:25,2022-01-24 14:43:25,0.436s,FAILED
+sendRequest(findTestObject(null)),,,,2022-01-24 14:43:25,2022-01-24 14:43:25,0.095s,FAILED

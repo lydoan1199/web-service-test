@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+"New Test Suit()e_----hu,dhu(0",,,,2022-01-18 15:26:36,2022-01-18 15:26:43,7.622s,PASSED
+,,,,,,,
+Test Cases/Find user by ID,,,,2022-01-18 15:26:36,2022-01-18 15:26:42,5.369s,PASSED
+"id = sample.Common.createNewUser(age, username, password, gender, 200)",,,,2022-01-18 15:26:37,2022-01-18 15:26:40,2.810s,PASSED
+"sample.Common.findUserById(id, age, username, password, gender, 200)",,,,2022-01-18 15:26:40,2022-01-18 15:26:42,1.695s,PASSED
+,,,,,,,
+Test Cases/Create a new user,,,,2022-01-18 15:26:42,2022-01-18 15:26:43,1.823s,PASSED
+"sample.Common.createNewUser(age, username, password, gender, 200)",,,,2022-01-18 15:26:42,2022-01-18 15:26:43,1.563s,PASSED

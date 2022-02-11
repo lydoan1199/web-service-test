@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="aaaaaa" time="1.16" tests="1" failures="0" errors="0">
+   <testsuite name="aaaaaa" tests="1" failures="0" errors="0" time="1.16" skipped="0" timestamp="2022-01-24 14:40:02" hostname="ly.doan - 192.168.1.6" id="Test Suites/aaaaaa">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/ly.doan/web-service-test/Reports/20220124_143942/aaaaaa/20220124_143942"/>
+         <property name="logFiles" value="/Users/ly.doan/web-service-test/Reports/20220124_143942/aaaaaa/20220124_143942/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ly.doan - 192.168.1.6"/>
+         <property name="hostAddress" value="192.168.1.6"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.1.0.208"/>
+      </properties>
+      <testcase name="Test Cases/Test Case 3" time="0.352" classname="Test Cases/Test Case 3" status="PASSED">
+         <system-out><![CDATA[2022-01-24 14:40:02 - [TEST_CASE][PASSED] - Test Cases/Test Case 3: Test Cases/Test Case 3
+
+2022-01-24 14:40:03 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-01-24 14:40:02 - [TEST_SUITE][PASSED] - aaaaaa: Test Cases/Test Case 3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -11,4 +11,10 @@
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>e7855aaa-1468-4ded-948a-958797737d1e</testSuiteGuid>
+   <testCaseLink>
+      <guid>a3a1ce5f-682d-4fec-b166-c05161567d57</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test Case 3</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -13,7 +13,7 @@
             <runConfigurationId>Web Service</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Folder B/web-service-tests - All Test Cases</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder B/Folder B.1/Folder B.1.1/web-service-tests - All Test Cases</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
