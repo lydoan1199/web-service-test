@@ -9,7 +9,7 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Service</groupName>
-            <profileName>default</profileName>
+            <profileName>New Profile)(ƯƠ</profileName>
             <runConfigurationId>Web Service</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
@@ -18,7 +18,7 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Service</groupName>
-            <profileName>default</profileName>
+            <profileName>New Profile)(ƯƠ</profileName>
             <runConfigurationId>Web Service</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>

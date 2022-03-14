@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+你好,,,,2022-03-04 13:59:46,2022-03-04 13:59:50,4.770s,PASSED
+,,,,,,,
+Test Cases/Create a new user,,,,2022-03-04 13:59:46,2022-03-04 13:59:50,4.372s,PASSED
+"sample.Common.createNewUser(age, username, password, gender, 200)",,,,2022-03-04 13:59:46,2022-03-04 13:59:50,3.909s,PASSED
