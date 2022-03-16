@@ -13,7 +13,7 @@
             <runConfigurationId>Web Service</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Folder B/Folder B.1/Folder B.1.1/Folder B.1.1.1/Folder B.1.1.1.1/你好</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Folder B/Folder B.1/Folder B.1.1/Folder B.1.1.1/Folder B.1.1.1.1/B.1.1.1.1.1.1/你好</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
